@@ -37,7 +37,7 @@ $ bundle install
 #### Database Setup
 
 ```bash
-cp config/database.example.yml config/database.yml
+$ cp config/database.example.yml config/database.yml
 
 $ bundle exec rake db:create
 $ bundle exec rake db:migrate
