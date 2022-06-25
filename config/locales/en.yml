@@ -1,0 +1,7 @@
+en:
+  activerecord:
+    errors:
+      messages:
+        investment:
+          investment_multiple: |
+           is %{amount}. Please provide valid investment amount. 
