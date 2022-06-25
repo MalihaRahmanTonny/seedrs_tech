@@ -22,10 +22,14 @@ required APIs are build along with necessary model structures.
 <a name="installation"></a>
 ### Installation
 
-* Download the project zipfile and expand the folder
+* Clone repository
+```bash
+SSH: git@github.com:MalihaRahmanTonny/seedrs_tech.git
+HTTPS: https://github.com/MalihaRahmanTonny/seedrs_tech.git
+```
 * Navigate into the project's directory
 ```bash
-$ cd seedr_be_tech_test
+$ cd seedrs_tech
 ```
 
 #### Install Backend Library Dependencies
